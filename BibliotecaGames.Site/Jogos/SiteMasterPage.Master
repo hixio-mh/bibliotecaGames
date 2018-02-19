@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteMasterPage.master.cs" Inherits="BibliotecaGames.Site.Jogos.SiteMasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+     <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="../Content/Jogos/index.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+              <asp:Menu ID="MenuPrincipal" runat="server" Orientation="Horizontal">
+                <Items>
+                    <asp:MenuItem Text="Jogos" Value="Jogos">
+                    <asp:MenuItem NavigateUrl="~/Jogos/Catalogo.aspx" Text="Catálogo" Value="Catálogo"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/Jogos/CadastroEdicaoJogo.aspx" Text="Cadastro" Value="CadastroJogos"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem Text="Sair" Value="Sair" NavigateUrl="~/Jogos/Catalogo.aspx?logout=logout"></asp:MenuItem>
+                </Items>
+            </asp:Menu>
+            <div style="margin: 40px 0px 0px 30px"> 
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

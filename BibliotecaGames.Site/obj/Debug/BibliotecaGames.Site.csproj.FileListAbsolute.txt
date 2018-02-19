@@ -1,0 +1,15 @@
+C:\Users\Fábio\Documents\Visual Studio 2017\Projects\BibliotecaGames\BibliotecaGames.Site\bin\BibliotecaGames.Site.dll.config
+C:\Users\Fábio\Documents\Visual Studio 2017\Projects\BibliotecaGames\BibliotecaGames.Site\bin\BibliotecaGames.Site.dll
+C:\Users\Fábio\Documents\Visual Studio 2017\Projects\BibliotecaGames\BibliotecaGames.Site\bin\BibliotecaGames.Site.pdb
+C:\Users\Fábio\Documents\Visual Studio 2017\Projects\BibliotecaGames\BibliotecaGames.Site\bin\BIbliotecaGames.BLL.dll
+C:\Users\Fábio\Documents\Visual Studio 2017\Projects\BibliotecaGames\BibliotecaGames.Site\bin\BibliotecaGames.Entities.dll
+C:\Users\Fábio\Documents\Visual Studio 2017\Projects\BibliotecaGames\BibliotecaGames.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fábio\Documents\Visual Studio 2017\Projects\BibliotecaGames\BibliotecaGames.Site\bin\BIbliotecaGames.BLL.pdb
+C:\Users\Fábio\Documents\Visual Studio 2017\Projects\BibliotecaGames\BibliotecaGames.Site\bin\BibliotecaGames.Entities.pdb
+C:\Users\Fábio\Documents\Visual Studio 2017\Projects\BibliotecaGames\BibliotecaGames.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fábio\Documents\Visual Studio 2017\Projects\BibliotecaGames\BibliotecaGames.Site\obj\Debug\BibliotecaGames.Site.csprojResolveAssemblyReference.cache
+C:\Users\Fábio\Documents\Visual Studio 2017\Projects\BibliotecaGames\BibliotecaGames.Site\obj\Debug\BibliotecaGames.Site.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Documents\Visual Studio 2017\Projects\BibliotecaGames\BibliotecaGames.Site\obj\Debug\BibliotecaGames.Site.dll
+C:\Users\Fábio\Documents\Visual Studio 2017\Projects\BibliotecaGames\BibliotecaGames.Site\obj\Debug\BibliotecaGames.Site.pdb
+C:\Users\Fábio\Documents\Visual Studio 2017\Projects\BibliotecaGames\BibliotecaGames.Site\bin\BibliotecaGames.DAL.dll
+C:\Users\Fábio\Documents\Visual Studio 2017\Projects\BibliotecaGames\BibliotecaGames.Site\bin\BibliotecaGames.DAL.pdb

@@ -1,0 +1,33 @@
+﻿.jogo{
+    padding-right:20px;
+    position:relative;
+    float:left;
+    cursor:pointer;
+}
+
+.capa-jogo{
+    width:150px;
+    height:200px;
+    border:1px solid;
+
+}
+
+.capa-jogo img:first-of-type{
+    width:150px;
+    height:200px;
+}
+
+.nome-jogo{
+    font-family:Verdana;
+    font-size:12px;
+    text-align:center;
+}
+
+.shelf-cta {
+    padding: 10px 50px;
+    font-size: 16px;
+}
+
+.ml-3 {
+    margin-left: 16px !important;
+}

@@ -1,0 +1,8 @@
+C:\Users\Fábio\Documents\Visual Studio 2017\Projects\BibliotecaGames\BibliotecaGames.DAL\bin\Debug\BibliotecaGames.DAL.dll
+C:\Users\Fábio\Documents\Visual Studio 2017\Projects\BibliotecaGames\BibliotecaGames.DAL\bin\Debug\BibliotecaGames.DAL.pdb
+C:\Users\Fábio\Documents\Visual Studio 2017\Projects\BibliotecaGames\BibliotecaGames.DAL\bin\Debug\BibliotecaGames.Entities.dll
+C:\Users\Fábio\Documents\Visual Studio 2017\Projects\BibliotecaGames\BibliotecaGames.DAL\bin\Debug\BibliotecaGames.Entities.pdb
+C:\Users\Fábio\Documents\Visual Studio 2017\Projects\BibliotecaGames\BibliotecaGames.DAL\obj\Debug\BibliotecaGames.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Fábio\Documents\Visual Studio 2017\Projects\BibliotecaGames\BibliotecaGames.DAL\obj\Debug\BibliotecaGames.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Documents\Visual Studio 2017\Projects\BibliotecaGames\BibliotecaGames.DAL\obj\Debug\BibliotecaGames.DAL.dll
+C:\Users\Fábio\Documents\Visual Studio 2017\Projects\BibliotecaGames\BibliotecaGames.DAL\obj\Debug\BibliotecaGames.DAL.pdb
